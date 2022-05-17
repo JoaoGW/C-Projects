@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652798180 source:c:\users\ra00319514\desktop\conta_de_eletricidade\contaluz.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<unistd.h>
+
