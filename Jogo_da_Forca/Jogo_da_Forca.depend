@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652977449 source:c:\users\joao pedro\documents\codeblocksscripts\jogo_da_forca\forca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<locale.h>
+	<time.h>
+	"forca.h"
+
+1652977349 c:\users\joao pedro\documents\codeblocksscripts\jogo_da_forca\forca.h
+
